@@ -3,7 +3,8 @@
 | ![QR Code](./ohelp_https-qr_code-35.png) | 3 Ohio Avenue <br /> Nashua, NH 03060 <br /> +1 (603) 325-1561 |
 | --- | --- |
 | [https://ohelp.com](https://ohelp.com) | [sfordin@ohelp.com](sfordin@ohelp.com) |
-| _Technical writing & illustration, Online & inline help, Information architecture & design_ ||
+
+>  _Technical writing & illustration, Online & inline help, Information architecture & design_
 
 ## Summary
 * Broad experience in salaried and project-based positions as a technical writer, illustrator, information architect, UI designer, online help developer, and multimedia author
@@ -105,4 +106,4 @@ Please contact me or see my résumé addendum for details about my older work �
 | **Scripting & coding** | **Source control & issue tracking** | **Containerized deployment** |
 | &bull; Bash/KSH/ZSH<br />&bull; CGI<br />&bull; Java<br />&bull; JavaScript<br />&bull; Perl<br />&bull; PHP<br />&bull; Python | &bull; CVS<br />&bull; Git<br />&bull; Jira<br />&bull; Perforce<br />&bull; Subversion<br /><br /><br /> | &bull; Ansible<br /> &bull; Docker<br />&bull; Helm<br />&bull; Kubernetes<br /><br /><br /><br /> |
 | **Ab Initio** |||
-| &bull; Authorization Gateway<br />&bull; Co>Operating System<br />&bull; Co>Relate<br />&bull; Control>Center | &bull; GDE<br />&bull; Metadata Hub<br />&bull; Query>It<br />&bull; Technical Repository ||
+| &bull; Authorization Gateway<br />&bull; Co>Operating System<br />&bull; Co>Relate<br />&bull; Control>Center<br />&bull; GDE<br />&bull; Metadata Hub<br />&bull; Query>It<br />&bull; Technical Repository |||
