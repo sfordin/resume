@@ -14,7 +14,8 @@
 
 ## Experience
 ### Ab Initio LLC
-June 2011–March 2024, Lexington, Massachusetts
+June 2011–March 2024  
+Lexington, Massachusetts
 > _Technical documentation & illustration, information architecture, graphics tools, consulting solutions_
 
 * Embedded for five years (March 2016–February 2021) at JPMorgan Chase (JPMC) as part of several Ab Initio field-consulting and development teams
@@ -34,7 +35,8 @@ June 2011–March 2024, Lexington, Massachusetts
 * Principal on the Control>Center documentation team through several releases
 
 ### Oracle Corporation
-February 2010–June 2011, Burlington, Massachusetts
+February 2010–June 2011  
+Burlington, Massachusetts
 > _Technical documentation & illustration, information architecture & tooling, German translation_
 
 * Documentation lead for the Web Space Server project
@@ -43,7 +45,8 @@ February 2010–June 2011, Burlington, Massachusetts
 * Performed product assessments, workflow analyses, and provided tooling and script support as part of the Sun-to-Oracle transition team
 
 ### Sun Microsystems
-March 1993–February 2010, Burlington, Massachusetts
+March 1993–February 2010  
+Burlington, Massachusetts
 > _Technical documentation & illustration, multimedia authoring, information architecture & tooling, coding standards, German translation_
 
 * Led Sun’s XML website for three years:
@@ -67,7 +70,8 @@ March 1993–February 2010, Burlington, Massachusetts
 * Designed and wrote online help systems and Web-based programming guides for Solaris Enterprise Manager, Solaris Management Console, Solaris DHCP Server, NT-NFS, SunPC
 
 ### Louisiana Energy National Enrichment Facility
-July 2006–Dec. 2007 _(contract)_, Eunice, New Mexico
+July 2006–Dec. 2007 _(contract)_  
+Eunice, New Mexico
 > _German translation, technical documentation & illustration, courseware, content management_
 
 * Wrote German-to-English translations of technical whitepapers, specifications, regulations, facilities procedures, and legal correspondence on nuclear medicine, nuclear safety, accident planning, nuclear enrichment plant design and maintenance, building codes and regulations
