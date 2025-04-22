@@ -1,11 +1,12 @@
 # Scott Fordin
 
-| ![QR Code](./ohelp_https-qr_code-35.png) | 3 Ohio Avenue <br /> Nashua, NH 03060 <br /> +1 (603) 325-1561 |
-| --- | --- |
-| [https://ohelp.com](https://ohelp.com) | [sfordin@ohelp.com](sfordin@ohelp.com) |
+3 Ohio Avenue &bull; Nashua, NH 03060  
++1 (603) 325-1561  
+<https://ohelp.com> &bull; <sfordin@ohelp.com>
 
->  _Technical writing & illustration, Online & inline help, Information architecture & design_
+**_Technical writing & illustration, Online & inline help, Information architecture & design_**
 
+---
 ## Overview
 * This document is an __addendum__ to my primary résumé.
 * My __primary résumé__ lists my most recent work experience, including at Ab Initio, Oracle Corporation, Sun Microsystems, and Louisiana Energy Services/National Enrichment Facility. My primary résumé also lists my publications, education, and favorite software tools.
@@ -59,7 +60,7 @@ Feb.–Oct. 2001 _(contract)_
 Cambridge, Massachusetts
 > Technical documentation & illustration, online help, information architecture
 
-* Wrote functional specifications for Orchestrate parallel processing Client/Server API Guide, Operator’s Guide, and Web House Operator’s Guide for clickstream processing, data warehousing, and data-mining operator APIs
+* Wrote functional specifications for Orchestrate parallel processing _Client/Server API Guide_, _Operator’s Guide_, and _Web House Operator’s Guide_ for clickstream processing, data warehousing, and data-mining operator APIs
 * Designed and wrote quick reference cards for Orchestrate/APT parallel processing classes and macros
 * Redesigned and updated Orchestrate online help system
 
@@ -232,7 +233,7 @@ Feb. 1986–Jan. 1987 _(contracts)_
 Lowell, Massachusetts
 > Technical documentation & illustration, online help, editorial services, German translation, production automation
 
-* Editing, German translation, and document production for converting four hard-copy lexicons into CD/ROM format: Random House German/English Dictionary, Random House Unabridged English Dictionary, Random House Concise English Dictionary, Duden German Thesaurus
+* Editing, German translation, and document production for converting four hard-copy lexicons into CD/ROM format: _Random House German/English Dictionary_, _Random House Unabridged English Dictionary_, _Random House Concise English Dictionary_, _Duden German Thesaurus_
 * Developed extensive Wang glossaries (Wang's scripting language) to automate editorial tasks and CD/ROM production
 * Developed extensive WordBasic macros to facilitate Windows help authoring
 * Wrote and illustrated several online help systems
@@ -309,5 +310,3 @@ Garden City, New York
 > Photography
 
 * Took photos for feature about transatlantic yacht race
-
-

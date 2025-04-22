@@ -1,11 +1,12 @@
 # Scott Fordin
 
-| ![QR Code](./ohelp_https-qr_code-35.png) | 3 Ohio Avenue <br /> Nashua, NH 03060 <br /> +1 (603) 325-1561 |
-| --- | --- |
-| [https://ohelp.com](https://ohelp.com) | [sfordin@ohelp.com](sfordin@ohelp.com) |
+3 Ohio Avenue &bull; Nashua, NH 03060  
++1 (603) 325-1561  
+<https://ohelp.com> &bull; <sfordin@ohelp.com>
 
->  _Technical writing & illustration, Online & inline help, Information architecture & design_
+**_Technical writing & illustration, Online & inline help, Information architecture & design_**
 
+---
 ## Summary
 * Broad experience in salaried and project-based positions as a technical writer, illustrator, information architect, UI designer, online help developer, and multimedia author
 * Deep expertise with a wide range of tools and delivery models for text, illustration, photo, video, audio, online, context-sensitive, print, and live presentation
