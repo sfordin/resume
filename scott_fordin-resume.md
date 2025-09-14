@@ -1,17 +1,80 @@
 # Scott Fordin
-
-3 Ohio Avenue &bull; Nashua, NH 03060  
-+1 (603) 325-1561  
-<https://ohelp.com> &bull; <sfordin@ohelp.com>
-
 **_Technical writing & illustration, Online & inline help, Information architecture & design_**
 
+<https://ohelp.com> &bull; <sfordin@ohelp.com><br />
+3 Ohio Avenue &bull; Nashua, NH 03060 USA &bull; +1 (603) 325-1561
+
 ---
+## Services
+* Technical documentation & illustration
+* Online & inline help systems
+* Information architecture & design
+* Technical articles & executive briefings
+* Training materials & courseware
+* Screencasts & narration
+
 ## Summary
-* Broad experience in salaried and project-based positions as a technical writer, illustrator, information architect, UI designer, online help developer, and multimedia author
-* Deep expertise with a wide range of tools and delivery models for text, illustration, photo, video, audio, online, context-sensitive, print, and live presentation
-* Comprehensive knowledge of Linux, MacOS, Windows, Solaris, iOS, and iPadOS} operating systems and development environments
-* My complete work experience and numerous samples are available on my website, [https://ohelp.com](https://ohelp.com)
+* **Developer-oriented projects**
+    For the past twenty years, most of my work has been on developer-oriented projects, including the following:
+    * Installation and configuration guides
+    * API references and code samples
+    * Tooltips and inline help integrations
+    * Product specifications and proofs-of-concept
+    * Product testing and deployment
+    * Runbooks, and troubleshooting procedures
+* **End-user projects**
+    I have also completed many projects for less technical audiences, including the following:
+    * User manuals \& websites
+    * Context-sensitive online help systems
+    * End-user training materials and stand-up presentations
+    * Executive briefings, product summaries, and presentation graphics
+    * Magazine articles \& photos
+* **Development support**
+    In conjunction with my developer-oriented and end-user work, I have provided development support on many projects, including the following:
+    * Creating documentation and graphics templates, primitives, and exemplars
+    * Developing information designs and tagging structures
+    * Defining editorial standards and guidelines
+    * Creating usability tests and UI designs
+    * Developing tools, macros, and utility scripts for other writers and developers
+    * Defining and maintaining Jira, Confluence, and SharePoint projects and spaces
+    * Working with export, legal, and trade authorities
+
+## For more information
+The remainder of this résumé lists only my most recent work. Please [see my website](https://ohelp.com) or [contact me](mailto:sfordin@ohelp.com) for samples and details about my older work — for example, at Kurzweil Computer
+Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation,
+Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
+
+## Software tools
+
+* **Writing:**
+    Arbortext, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, vi/vim, Word
+
+* **Graphics:**
+    Affinity Designer & Photo, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
+
+* **Audio & video:**
+    Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
+
+* **Markup & tagging:**
+    CSS, HTML, JSON, Markdown, SGML, TeX/LaTeX, XML, YAML
+
+* **Content management:**
+    Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
+
+* **Source control & issue tracking:**
+    CVS, Git, Jira, Perforce, Subversion
+
+* **Scripting & coding:**
+    Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
+
+* **Containerized deployment:**
+    Ansible, Docker, Helm, Kubernetes
+
+* **Ab Initio:**
+    Authorization Gateway, Co&gt;Operating System, Co&gt;Relate, Control&gt;Center, GDE, Metadata Hub, Query&gt;It, Technical Repository
+
+* **Operating systems:**
+    iOS, iPadOS, MacOS, Linux, Solaris, Windows
 
 ## Experience
 ### Ab Initio LLC
@@ -80,9 +143,6 @@ Eunice, New Mexico
 * Translated UF6 Compendium (an introduction to uranium hexafluoride production and its roles in nuclear enrichment and reprocessing) from German into English
 * Developed information architecture for company Documentum implementation
 
-## Older Entries
-Please contact me or see my résumé addendum for details about my older work — for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
-
 ## Publications
 * **“The Java EE 5 Tutorial”**; Addison-Wesley, 2006, 2008, 2010 _(contributing author)_; ISBN-13: 978-0321490292
 * **“The Java Architecture for XML Binding (JAXB) 2.0”**; Java Community Process (JCP) specification, April 19, 2006 _(contributing editor)_
@@ -101,14 +161,3 @@ Please contact me or see my résumé addendum for details about my older work �
         - Choreography (x2)
         - Painting (x2)
     - Fulfilled University Language Requirements in German and Spanish
-
-## Software tools
-| Writing | Graphics | Video | 
-| --- | --- | --- |
-| &bull; Arbortext<br />&bull; Bear<br />&bull; Byword<br />&bull; Drafts<br />&bull; Editorial<br />&bull; Emacs<br />&bull; FrameMaker<br />&bull; FreeMind<br />&bull; LibreOffice<br />&bull; Notepad++<br />&bull; NoteTab Pro<br />&bull; oXygen<br />&bull; Scrivener<br />&bull; SimpleMind<br />&bull; Sublime Text<br />&bull; TEXShop<br />&bull; TEXstudio<br />&bull; Ulysses<br />&bull; vi/vim<br />&bull; Word | &bull; Affinity Designer<br />&bull; Affinity Photo<br />&bull; Amadine<br />&bull; Concepts<br />&bull; Focos<br />&bull; GIMP<br />&bull; Illustrator<br />&bull; Inkscape<br />&bull; Lightroom<br />&bull; Linearity Curve<br />&bull; Photoshop<br />&bull; PowerPoint<br />&bull; Procreate<br />&bull; Snagit<br />&bull; Visio<br /><br /><br /><br /><br /><br /> | &bull; Camtasia<br />&bull; ffmpeg<br />&bull; HandBrake<br />&bull; Linearity Move<br />&bull; Premiere<br />&bull; Subler<br />&bull; TMPGEnc<br />&bull; Vegas Studio<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> |
-| **Audio** | **Markup** | **Content management** |
-| &bull; Audacity<br />&bull; Ferrite<br />&bull; ID3 Editor<br />&bull; Reaper<br /><br /><br /><br /><br /> | &bull; CSS<br />&bull; HTML<br />&bull; JSON<br />&bull; Markdown<br />&bull; SGML<br />&bull; TEX/LATEX<br />&bull; XML<br />&bull; YAML | &bull; Confluence<br />&bull; Drupal<br />&bull; GitHub<br />&bull; SharePoint<br />&bull; WordPress<br /><br /><br /><br /> |
-| **Scripting & coding** | **Source control & issue tracking** | **Containerized deployment** |
-| &bull; Bash/KSH/ZSH<br />&bull; CGI<br />&bull; Java<br />&bull; JavaScript<br />&bull; Perl<br />&bull; PHP<br />&bull; Python | &bull; CVS<br />&bull; Git<br />&bull; Jira<br />&bull; Perforce<br />&bull; Subversion<br /><br /><br /> | &bull; Ansible<br /> &bull; Docker<br />&bull; Helm<br />&bull; Kubernetes<br /><br /><br /><br /> |
-| **Ab Initio** |||
-| &bull; Authorization Gateway<br />&bull; Co>Operating System<br />&bull; Co>Relate<br />&bull; Control>Center<br />&bull; GDE<br />&bull; Metadata Hub<br />&bull; Query>It<br />&bull; Technical Repository |||

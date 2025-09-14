@@ -1,18 +1,16 @@
 # Scott Fordin
-
-3 Ohio Avenue &bull; Nashua, NH 03060  
-+1 (603) 325-1561  
-<https://ohelp.com> &bull; <sfordin@ohelp.com>
-
 **_Technical writing & illustration, Online & inline help, Information architecture & design_**
+
+<https://ohelp.com> &bull; <sfordin@ohelp.com><br />
+3 Ohio Avenue &bull; Nashua, NH 03060 USA &bull; +1 (603) 325-1561
 
 ---
 ## Overview
 * This document is an __addendum__ to my primary résumé.
-* My __primary résumé__ lists my most recent work experience, including at Ab Initio, Oracle Corporation, Sun Microsystems, and Louisiana Energy Services/National Enrichment Facility. My primary résumé also lists my publications, education, and favorite software tools.
-* The purpose of this document is to list older work that is not included in my primary résumé. This older work includes additional salaried positions and extensive contract-based project work for a wide range of clients.
-* Please contact me for a copy of my primary résumé.
-* My complete work experience and numerous samples are also available on my website, [https://ohelp.com](https://ohelp.com).
+* My __primary résumé__ lists my most recent work experience, including at Ab Initio, Oracle Corporation, Sun Microsystems, and Louisiana Energy Services/National Enrichment Facility.
+* My primary résumé also lists my publications, education, and favorite software tools.
+* The purpose of this document is to list additional salaried positions and extensive contract-based projects that are not included on my primary résumé.
+* Please contact me for a copy of my primary résumé. My complete work experience and numerous samples are also available on my website, [https://ohelp.com](https://ohelp.com).
 
 ## Experience
 ### Infant Jesus School
