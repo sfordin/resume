@@ -1,0 +1,427 @@
+\documentclass[11pt,letterpaper]{article}
+
+% Font handling and typography
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{overlock}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\usepackage{extdash}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[colorlinks]{hyperref}
+
+% Page setup
+\usepackage[scale=0.88]{geometry}
+\usepackage{titling}
+\usepackage{fbox}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{setspace}
+\raggedright
+\usepackage[indent=1.5em]{parskip}
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{lastpage}
+\setcounter{secnumdepth}{0}
+
+% Custom commands
+\newcommand{\comment}[1]{}
+\newcommand{\hoff}{\setlength{\hangindent}{1.5em}}
+\renewcommand{\section}[1]{\noindent\fbox[l]{\Large\textsc{\textbf{\textcolor{magenta}{#1}}}}\par}
+\renewcommand{\subsection}[1]{\hspace*{-.4em}\setlength{\parskip}{1em}\fbox[lt]{\textsc{\textbf{\textcolor{magenta}{#1}}}}\par
+}
+\renewcommand{\labelitemii}{$\circ$}
+\newcommand{\job}[4]{\subsection{#1} % Company name
+	\parbox{4.2in}{\vspace{-.5em}\textcolor{magenta}{#2}} % City and state
+	\parbox{3in}{\vspace{-.5em}\hfill \textcolor{magenta}{#3}} \\ % Dates
+	\hoff\textit{#4} % Summary
+}
+\def\jlist{\vspace{-.5em}\setlength\parskip{4pt}}
+
+%% ================================================================
+%% Variables for maketitle and fancyhdr
+% Personal information
+\def\myname{Scott Fordin}
+\def\myaddress{3 Ohio Avenue Nashua, NH 03060}
+\def\myphone{\href{tel:+16033251561}{+1~(603)~325-1561}}
+%\def\myfaxfax{+1~(603)~459-8323}
+\def\myemail{\href{mailto:sfordin@ohelp.com}{sfordin@ohelp.com}}
+\def\myhomepage{\href{https://ohelp.com}{https://ohelp.com}}
+\def\mylogo{\href{https://ohelp.com}{\includegraphics[scale=.23]{ohelp_https-qr_code.png}}}
+\def\logosmall{\href{https://ohelp.com}{\includegraphics[scale=.1]{ohelp_https-qr_code.png}}}
+\def\servicesA{Technical writing \& illustration~\textbullet~Online \& inline help}
+\def\servicesB{Information design \& courseware~\textbullet~Screencasts \& narration}
+
+% Exclude author and date from maketitle
+\author{}
+\date{}
+
+% Structure for maketitle
+\title{
+	\vspace{-2.8em}
+	\begin{center}
+		\begin{flushleft}
+		\parbox{1.3in}{\centering
+		\mylogo \\
+		\large \textsf{\myhomepage}
+		}
+		\end{flushleft}
+		\begin{center}
+		\vspace{-4.3em}
+			\parbox{4in}{\centering
+			\Huge \textsc{\textbf{\textcolor{magenta}{\myname}}} \\
+			\vspace{.5em}
+			\large \myaddress \\
+			\vspace{.22em}
+			\large \textsf{\myemail~\textbullet~\myphone}
+		}
+		\end{center}
+	\end{center}
+	\vspace{.3em}
+	\hrule
+}
+
+%% ================================================================
+%% Headers and footers
+% Variables for fancyhdr
+\pagestyle{fancy}
+\def\titlefoot{{\footnotesize \textsc{\myname~\textemdash~R\'{e}sum\'{e} (addendum)}}}
+\def\moddate{{\footnotesize \textsc{\today}}}
+\def\pgnum{{\footnotesize \textsc{page \thepage\space of \pageref{LastPage}}}}
+
+% Structures for headers and footers
+\fancypagestyle{plain}
+{
+	\fancyhead{}
+	\fancyfoot{}
+	\fancyfoot[L]{\moddate}
+	\fancyfoot[C]{\titlefoot}
+	\fancyfoot[R]{\pgnum}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+
+%% ================================================================
+%% Document content begins here
+\begin{document}
+\maketitle
+\pagestyle{plain}
+\vspace{-3em}
+
+\section{Services}
+\parbox{3.5in}{
+	\begin{itemize}
+		\item Technical documentation \& illustration
+		\item Online \& inline help systems
+		\item Publication \& project management
+		\item Usability testing \& design
+	\end{itemize}
+}
+\parbox{3.5in}{
+	\begin{itemize}
+		\item Training materials \& courseware
+		\item Information architecture \& design
+		\item Technical articles \& executive briefings
+		\item Screencasts \& narration
+	\end{itemize}
+}
+
+% ----------------------------------------------------------------
+\section{About this document}
+\vspace{.5em}
+\begin{itemize}\jlist
+	\item \fbox[]{This document is an \textbf{addendum} to my primary r\'{e}sum\'{e}.}
+		\item My primary r\'{e}sum\'{e} lists my most recent work experience, including at Ab Initio, Oracle Corporation, Sun Microsystems, and Louisiana Energy Services/National Enrichment Facility.
+		\item My primary r\'{e}sum\'{e} also lists my publications, education, and favorite software tools.
+		\item The purpose of this document is to list additional salaried positions and extensive contract-based projects that are not included on my primary r\'{e}sum\'{e}.
+		\item Please contact me for a copy of my \textbf{primary r\'{e}sum\'{e}}. My complete work experience and numerous samples are also available at \myhomepage.
+\end{itemize}
+
+% ----------------------------------------------------------------
+\section{Experience}
+
+% ----------------------------------------------------------------
+\subsection{Infant Jesus School}
+\parbox{2.9in}{\vspace{-.5em}\textcolor{magenta}{Nashua, New Hampshire}}
+\parbox{4.3in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} September 2005--May 2006, September 2006--April 2007}}} \\
+\hoff\textit{Network infrastructure, software installation \& configuration, staff training}
+    \begin{itemize}\jlist
+	\item Designed network topology and physically installed all networking cabling, routers, switches, and computers for entire school ($\approx$75 nodes)
+	\item Installed and configured software on all school computers
+	\item Performed staff training
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Atrium Salon \& Spa}{Nashua, New Hampshire}{\textit{(contract)} June--September 2009}{Website development, logo design, internal training}
+\begin{itemize}\jlist
+	\item Designed and authored company website
+	\item Designed company logo
+	\item Performed staff training
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Marguerite's Place}{Nashua, New Hampshire}{\textit{(contract)} December 2004}{Video authoring \& production}
+\begin{itemize}\jlist
+	\item Created and produced promotional and fundraising video for a women’s transitional shelter
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\job{PeerDirect}{Bedford, Massachusetts}{\textit{(contract)} February--March 2003}{Technical documentation \& illustration, online help}
+\begin{itemize}\jlist
+	\item Wrote and illustrated documentation and online help for the PeerDirect Database Replication Engine\comment{ (PDRE) product}
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{NuSphere Corporation}{Burlington, Massachusetts}{\textit{(contract)} February--October 2001}{Technical documentation \& illustration, online help, information architecture}
+\begin{itemize}\jlist
+	\item Wrote \emph{Getting Started guide}, \emph{MySQL Advantage Installation Guide}, \emph{MySQL Advantage User's Guide}, and \emph{MySQL Reference Manual} for three release cycles
+	\item Wrote beta and FCS documentation for GEMINI MySQL table handler
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Torrent Systems, Inc.}{Cambridge, Massachusetts}{\textit{(contract)} June 2000--January 2001}{Technical documentation \& illustration, online help, information architecture}
+\begin{itemize}\jlist
+	\item Wrote functional specifications for Orchestrate parallel processing \emph{Client/Server API Guide}, \emph{Operator’s Guide}, and \emph{Web House Operator’s Guide} for clickstream processing, data warehousing, and data-mining operator APIs
+	\item Designed and wrote quick reference cards for Orchestrate/APT parallel processing classes and macros
+	\item Redesigned and updated Orchestrate online help system
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Hurley Communications, Inc.}{Norwood, Massachusetts}{\textit{(contract)} October 1999--May 2000}{Technical documentation \& illustration, online help, information architecture}
+\begin{itemize}\jlist
+	\item Wrote and illustrated print documentation, training materials, and online help for integrated hospital switchboard and messaging system
+	\item Performed staff training
+\end{itemize}
+
+% ----------------------------------------------------------------
+\subsection{Thomson Financial}
+\parbox{2.7in}{\vspace{-.5em}\textcolor{magenta}{Boston, Massachusetts}}
+\parbox{4.5in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} November 1992--February 1993, August 1998--March 1999}}} \\
+\hoff\textit{Technical documentation, online help, information architecture}
+\begin{itemize}\jlist
+	\item Designed and wrote online help for several Java-based financial transaction management applications
+	\item Redesigned and edited API and programming guides for client-side development toolkit
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Electronic Industries Data Exchange Association}{Arlington, Virginia}{\textit{(contract)} July--September 1998}{Technical documentation \& illustration}
+	\begin{itemize}\jlist
+		\item Co-designed, illustrated, and edited EIDX API specification for managing electronic financial transactions
+	\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\subsection{Gemsoft Corporation}
+\parbox{2.9in}{\vspace{-.5em}\textcolor{magenta}{Nashua, New Hampshire}}
+\parbox{4.3in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} April--October 1995, January--February 1996}}} \\
+\hoff\textit{Technical documentation \& illustration, online help, information architecture}
+\begin{itemize}\jlist
+	\item Wrote and illustrated print documentation and several online help systems for Emerald user and administrator products and Gemsoft Preview
+	\item Wrote prototype demo for browser-based implementation of Emerald product
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Scan Centers of America}{Natick, Massachusetts}{\textit{(contract)} February--April 1995}{Technical documentation \& illustration}
+\begin{itemize}\jlist
+	\item Designed, wrote, and illustrated \emph{Electronic Document Management: A ScanCenters Primer for Real People}, a primer on electronic document management concepts
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Xerox Imaging Systems}{Cambridge, Massachusetts}{\textit{(contract)} November 1992, April--May 1993}{Audio scripting, narration \& production, information architecture}
+\begin{itemize}\jlist
+	\item Wrote and narrated intro/outro material for audio cassettes for four Reading Edge product manuals
+	\item Arranged all details of documentation audio recording, tone indexing, Braille labeling, and cassette production
+	\item Information architecture consulting for Windows-based online help systems
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Attitash Software, Inc.}{Nashua, New Hampshire}{\textit{(contract)} July--October 1992}{Technical documentation \& illustration, online help, automation tools, information architecture}
+\begin{itemize}\jlist
+	\item Wrote and illustrated documentation and online help for SlingShot, WideAngle, and InfoPanel products~
+	\item Developed style guide, PDF print specifications, and Microsoft Word templates for all documentation
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Credit Technologies}{Waltham, Massachusetts}{\textit{(contract)} May--July 1992}{Technical documentation \& illustration, information architecture, QA testing}
+\begin{itemize}\jlist
+	\item Wrote and illustrated user guides for Remote CAS and Core CDS products
+	\item Wrote and illustrated beta and promotional documentation for CDS and 800/4‐CREDIT products
+	\item Performed alpha and beta testing and UI desgin for Remote CAS, CDS, and 800/4‐CREDIT products
+\end{itemize}
+
+% ----------------------------------------------------------------
+\subsection{Keyfile Corporation}
+\parbox{2.9in}{\vspace{-.5em}\textcolor{magenta}{Nashua, New Hampshire}}
+\parbox{4.3in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} June--October 1991, February--April 1992}}} \\
+\hoff\textit{Technical documentation \& illustration, online help, automation tools, information architecture}
+\begin{itemize}\jlist
+	\item Wrote and illustrated documentation and online help for OS/2-based network document server product~
+	\item Designed and wrote documentation and online help for Windows-based document management/office automation system
+	\item Developed an extensive set of WordBasic macros to facilitate Windows help authoring
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\job{Inmagic, Inc.}{Woburn, Massachusetts}{\textit{(contract)} November 1991--February 1992}{Technical documentation \& illustration}
+\begin{itemize}\jlist
+	\item Wrote and illustrated user manual for relational database product\comment{; included introductory, basic, and advanced database chapters, and technical appendices on security and import/export examples}
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Archetype, Inc.}{Waltham, Massachusetts}{\textit{(contract)} May--June 1991}{Technical documentation \& illustration}
+\begin{itemize}\jlist
+	\item Wrote and illustrated user manual for Netware/Windows client-server image-management product
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Kurzweil Computer Products/Xerox Imaging Systems}{Cambridge, Massachusetts}{May 1989--June 1991}{Technical documentation \& illustration, multimedia authoring, accessibility design and testing, information architecture, German translation}
+\begin{itemize}\jlist
+	\item Designed, wrote, and narrated (for audio cassette) all Reading Machine user documentation
+	\item Developed information architecture, editorial standards, and document formats specifically optimized for use with screen reader software
+	\item Performed extensive in-person usability and information design testing with vision- impaired users
+	\item Worked with Underwriters Laboratories (UL) to shepherd all documentation targeted for vision-impaired users through UL safety review processes
+	\item Arranged audio production, tone indexing, Braille labeling, cassette production and packaging
+	\item Wrote and illustrated user documentation for commercial optical character recognition products
+	\item Performed German translation and technical editing of German-language products
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Project Software \& Development}{Cambridge, Massachusetts}{February 1988--May 1989}{Technical documentation \& illustration, information architecture, internal training, test management}
+\begin{itemize}\jlist
+	\item Wrote and illustrated user documentation for VAX and IBM mainframe-based project management software products
+	\item Designed and wrote online help and tutorials for DECwindows-based product
+	\item Wrote in-house tutorials for desktop publishing with VAX and PC WordPerfect and PostScript
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Massachusetts Senior Action Council}{Quincy, Massachusetts}{\textit{(contract)} February 1988}{Newsletter, interviews}
+\begin{itemize}\jlist
+	\item Conducted interviews, wrote articles for Council newsletter
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{IMEC Corporation}{Charlestown, Massachusetts}{\textit{(contract)} January--February 1988}{Technical documentation, German translation}
+\begin{itemize}\jlist
+	\item Translated hardware manual for logic-driven electric servo motors into German
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\job{AT\&T}{Boston, Massachusetts}{\textit{(contract)} November--December 1987}{Technical documentation, internal training, office automation}
+\begin{itemize}\jlist
+	\item Conducted in-house training, wrote instructional documentation for various office productivity tools
+	\item Developed DOS batch files and SAMNA IV keyboard macros to automate billing procedures
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Boston Center for Computer Applications}{Boston, Massachusetts}{\textit{(contract)} September--November 1987}{Technical documentation \& illustration, courseware development, system configuration}
+\begin{itemize}\jlist
+	\item Wrote curricula for AutoCAD and Aldus PageMaker software training classes
+	\item Taught customer classes (basic and advanced) in WordPerfect 4.2; trained staff in Lotus Freelance
+	\item Configured PC hardware, wrote DOS batch and instructional files for in-house and customer classrooms
+	% \item Wrote first company newsletter
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Little, Brown Company}{Boston, Massachusetts}{\textit{(contract)} April--June 1987}{Editorial services, internal training}
+\begin{itemize}\jlist
+	\item Performed staff training on MultiMate, Lotus 1‐2‐3, and DOS
+	\item Provided editorial services for several large internal reference publications
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Arthur Andersen/Massachusetts Department of Revenue}{Boston, Massachusetts}{\textit{(contract)} March--April 1987}{Editorial services, office automation}
+\begin{itemize}\jlist
+	\item Performed editorial services for training materials for MASSTAX auditing system
+	\item Developed DOS batch files and WordPerfect macros to automate office procedures
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Keystone Provident Life Insurance Company}{Boston, Massachusetts}{\textit{(contract)} February--March 1987}{Technical documentation, office automation}
+\begin{itemize}\jlist
+	\item Wrote internal documentation
+	\item Developed WordPerfect macro and merge files to automate tracking and billing procedures
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Wang Laboratories, Inc.}{Lowell, Massachusetts}{\textit{(contract)} February 1986--January 1987}{Technical documentation \& illustration, online help, editorial services, German translation, production automation}
+\begin{itemize}\jlist
+	\item Editing, German translation, and document production for converting four hard-copy lexicons into CD/ROM format: \emph{Random House German/English Dictionary}, \emph{Random House Unabridged English Dictionary}, \emph{Random House Concise English Dictionary}, \emph{Duden German Thesaurus}
+	\item Developed extensive Wang glossaries (Wang's scripting language) to automate editorial tasks and CD/ROM production
+	\item Developed extensive WordBasic macros to facilitate Windows help authoring
+	\item Wrote and illustrated several online help systems
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Blackfoot Productions}{Cambridge, Massachusetts}{\textit{(contract)} June--August 1986}{Editorial services}
+\begin{itemize}\jlist
+	\item Script editor for ``\emph{Vig},'' a stage play by Paul Hapenny
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Solomon Shechter Day School}{Newton, Massachusetts}{\textit{(contract)} May--June 1985}{Multimedia scripting}
+\begin{itemize}\jlist
+	\item Wrote narration and storyboard for annual fundraising video
+\end{itemize}
+
+% ----------------------------------------------------------------
+\subsection{Greater Boston YMCA}
+\parbox{2.9in}{\vspace{-.5em}\textcolor{magenta}{Boston, Massachusetts}}
+\parbox{4.3in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} October--November 1984, January--February 1985}}} \\
+\hoff\textit{Multimedia scripting, narration}
+\begin{itemize}\jlist
+	\item Wrote and narrated two radio public service announcements
+	\item Wrote audio/visual script for annual meeting/fundraising video
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Seiler Corporation}{Waltham, Massachusetts}{\textit{(contract)} December 1984--February 1985}{Newsletters}
+\begin{itemize}\jlist
+	\item Wrote two monthly corporate newsletters
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{General Electric/Media 1}{Lynn, Massachusetts}{\textit{(contract)} May 1984}{Multimedia production}
+\begin{itemize}\jlist
+	\item Key Grip for 30-projector audio/visual production for GE ``Family Fair Day''
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{\emph{The Yacht} magazine}{Newport, Rhode Island}{\textit{(contract)} August 1983--March 1984}{Writing, photography, editorial services, production management}
+\begin{itemize}\jlist
+	\item Editorial production manager for first edition of magazine
+	\item Wrote copy, took photos for several feature sections
+	\item Established stringer contacts and editorial library
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Roger Vaughan}{Newport, Rhode Island}{\textit{(contract)} November 1983--February 1984}{German translation, biographical research}
+\begin{itemize}\jlist
+	\item German translation and research for biography of Herbert von Karajan
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\job{\emph{SAIL} magazine}{Boston, Massachusetts}{\textit{(contract)} December 1980}{Writing, photography}
+\begin{itemize}\jlist
+	\item Wrote copy and took photographs for \emph{Visual distress signals}, an article about safety flares and other maritime visual distress signals
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Fluor Corporation/Daniel Construction}{Greenville, South Carolina}{\textit{(contract)} May 1978--September 1978}{Architectural drafting, technical illustration}
+\begin{itemize}\jlist
+	\item Architectural illustration and technical drafting for industrial process piping and design facilities
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{\emph{Nikon World} magazine}{Garden City, New York}{\textit{(contract)} January 1977}{Photography}
+\begin{itemize}\jlist
+	\item Photography for feature about transatlantic yacht race
+\end{itemize}
+
+% ----------------------------------------------------------------
+
+\end{document}

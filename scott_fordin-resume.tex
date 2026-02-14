@@ -1,0 +1,309 @@
+\documentclass[11pt,letterpaper]{article}
+
+% Font handling and typography
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{overlock}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\usepackage{extdash}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[colorlinks]{hyperref}
+
+% Page setup
+\usepackage[scale=0.88]{geometry}
+\usepackage{titling}
+\usepackage{fbox}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{setspace}
+\raggedright
+\usepackage[indent=1.5em]{parskip}
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{lastpage}
+\setcounter{secnumdepth}{0}
+
+% Custom commands
+\newcommand{\comment}[1]{}
+\newcommand{\hoff}{\setlength{\hangindent}{1.5em}}
+\renewcommand{\section}[1]{\noindent\fbox[l]{\Large\textsc{\textbf{\textcolor{magenta}{#1}}}}\par}
+\renewcommand{\subsection}[1]{\hspace*{-.4em}\setlength{\parskip}{1em}\fbox[lt]{\textsc{\textbf{\textcolor{magenta}{#1}}}}\par
+}
+\renewcommand{\labelitemii}{$\circ$}
+\newcommand{\job}[4]{\subsection{#1} % Company name
+	\parbox{4.2in}{\vspace{-.5em}\textcolor{magenta}{#2}} % City and state
+	\parbox{3in}{\vspace{-.5em}\hfill \textcolor{magenta}{#3}} \\ % Dates
+	\hoff\textit{#4} % Summary
+}
+\def\jlist{\vspace{-.5em}\setlength\parskip{4pt}}
+
+%% ================================================================
+%% Variables for maketitle and fancyhdr
+% Personal information
+\def\myname{Scott Fordin}
+\def\myaddress{3 Ohio Avenue Nashua, NH 03060}
+\def\myphone{\href{tel:+16033251561}{+1~(603)~325-1561}}
+%\def\myfaxfax{+1~(603)~459-8323}
+\def\myemail{\href{mailto:sfordin@ohelp.com}{sfordin@ohelp.com}}
+\def\myhomepage{\href{https://ohelp.com}{https://ohelp.com}}
+\def\mylogo{\href{https://ohelp.com}{\includegraphics[scale=.23]{ohelp_https-qr_code.png}}}
+\def\logosmall{\href{https://ohelp.com}{\includegraphics[scale=.1]{ohelp_https-qr_code.png}}}
+\def\servicesA{Technical writing \& illustration~\textbullet~Online \& inline help}
+\def\servicesB{Information design \& courseware~\textbullet~Screencasts \& narration}
+
+% Exclude author and date from maketitle
+\author{}
+\date{}
+
+% Structure for maketitle
+\title{
+	\vspace{-2.8em}
+	\begin{center}
+		\begin{flushleft}
+		\parbox{1.3in}{\centering
+		\mylogo \\
+		\large \textsf{\myhomepage}
+		}
+		\end{flushleft}
+		\begin{center}
+		\vspace{-4.3em}
+			\parbox{4in}{\centering
+			\Huge \textsc{\textbf{\textcolor{magenta}{\myname}}} \\
+			\vspace{.5em}
+			\large \myaddress \\
+			\vspace{.22em}
+			\large \textsf{\myemail~\textbullet~\myphone}
+		}
+		\end{center}
+	\end{center}
+	\vspace{.3em}
+	\hrule
+}
+
+%% ================================================================
+%% Headers and footers
+% Variables for fancyhdr
+\pagestyle{fancy}
+\def\titlefoot{{\footnotesize \textsc{\myname~\textemdash~R\'{e}sum\'{e}}}}
+\def\moddate{{\footnotesize \textsc{\today}}}
+\def\pgnum{{\footnotesize \textsc{page \thepage\space of \pageref{LastPage}}}}
+
+% Structures for headers and footers
+\fancypagestyle{plain}
+{
+	\fancyhead{}
+	\fancyfoot{}
+	\fancyfoot[L]{\moddate}
+	\fancyfoot[C]{\titlefoot}
+	\fancyfoot[R]{\pgnum}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+
+%% ================================================================
+%% Document content begins here
+\begin{document}
+\maketitle
+\pagestyle{plain}
+\vspace{-3em}
+
+\section{Services}
+\parbox{3.5in}{
+	\begin{itemize}
+		\item Technical documentation \& illustration
+		\item Online \& inline help systems
+		\item Publication \& project management
+		\item Usability testing \& design
+	\end{itemize}
+}
+\parbox{3.5in}{
+	\begin{itemize}
+		\item Training materials \& courseware
+		\item Information architecture \& design
+		\item Technical articles \& executive briefings
+		\item Screencasts \& narration
+	\end{itemize}
+}
+
+% ----------------------------------------------------------------
+\section{Summary}
+\begin{itemize}
+	\item \textbf{Developer-oriented projects} \textemdash~For the past twenty years, most of my work has been on developer-oriented projects, including the following:
+	\begin{center}
+	\parbox{3.5in}{\raggedright
+		\begin{itemize}
+			\item Installation \& configuration guides
+			\item API references \& code samples
+			\item Tooltips \& inline help integrations
+		\end{itemize}
+	}
+	\parbox{3.5in}{\raggedright
+		\begin{itemize}
+			\item Product specifications \& proofs-of-concept
+			\item Product testing \& deployment
+			\item Runbooks, \& troubleshooting procedures
+		\end{itemize}
+	}
+\end{center}
+	\item \textbf{End-user projects} \textemdash~I have also completed many projects for less technical audiences, including the following:
+	\begin{center}
+		\parbox{3.5in}{\raggedright
+			\begin{itemize}
+				\item Product documentation \& information systems
+				\item Context-sensitive online help systems
+				\item Training materials \& live presentations
+			\end{itemize}
+		}
+		\parbox{3.5in}{\raggedright
+			\begin{itemize}
+				\item Executive briefings, product summaries, \&~presentation graphics
+				\item Magazine articles \& photos
+			\end{itemize}
+		}
+	\end{center}
+	\item \textbf{Publications \& development support} \textemdash~As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
+	\begin{center}
+		\parbox{3.5in}{\raggedright
+			\begin{itemize}
+				\item Product documentation \& information systems
+				\item Context-sensitive online help systems
+				\item Training materials \& live presentations
+			\end{itemize}
+		}
+		\parbox{3.5in}{\raggedright
+			\begin{itemize}
+				\item Executive briefings, product summaries, \&~presentation graphics
+				\item Magazine articles \& photos
+			\end{itemize}
+		}
+	\end{center}
+\end{itemize}
+% ----------------------------------------------------------------
+\section{Software tools}
+\vspace{.5em}
+\begin{itemize}\jlist
+	\item \textbf{Writing} \textemdash~Arbortext, Bear, Byword, Drafts, Editorial, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, \comment{NoteTab~Pro, }oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, \comment{Ulysses, }vi/vim, Word
+	\item \textbf{Graphics} \textemdash~Affinity Designer \& Photo, Amadine, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
+	\item \textbf{Audio \& video} \textemdash~Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
+	\item \textbf{Markup \& tagging} \textemdash~CSS, HTML, JSON, Markdown, SGML, \TeX/\LaTeX, XML, YAML
+	\item \textbf{Content management} \textemdash~Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
+	\item \textbf{Source control \& issue tracking} \textemdash~CVS, Git, Jira, Perforce, Subversion
+	\item \textbf{Scripting \& coding} \textemdash~Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
+	\item \textbf{Containerized deployment} \textemdash~Ansible, Docker, Helm, Kubernetes
+	\item \textbf{Ab Initio} \textemdash~Authorization Gateway, Co>Operating System, Co>Relate, Control>Center, GDE, Metadata Hub, Query>It, Technical~Repository
+	\item \textbf{Operating systems} \textemdash~iOS, iPadOS, MacOS, Linux, Solaris, Windows
+\end{itemize}
+\pagebreak
+
+% ----------------------------------------------------------------
+\section{For more information}
+\hoff The remainder of this r\'{e}sum\'{e} lists only my most recent work. Please \href{https://ohelp.com}{see my website} or \href{mailto:sfordin@ohelp.com?subject=CV request}{contact me} for samples and details about my older work \textemdash~for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
+
+% ----------------------------------------------------------------
+\section{Experience}
+
+% ----------------------------------------------------------------
+\job{Ab Initio LLC}{Lexington, Massachusetts}{June 2011--March 2024}{Technical documentation \& illustration, information architecture, graphics tools, custom consulting solutions}
+\begin{itemize}\jlist
+	\item Embedded for five years (March 2016–February 2021) at JPMorgan Chase (JPMC) as part of several Ab Initio field-consulting and development teams
+	\item “Loaned” to JPMC for a non-Ab Initio Sheltered Harbor project (emergency standards and protocols under the auspices of the US Treasury Department)
+	\item Documented Ab Initio custom field-consulting solutions for various clients:
+	\begin{itemize}
+		\item Ab Initio-on-Cloud Migration and Site Mover (Capital One)
+		\item Customer Interaction Platform (XL, Telkomsel)
+		\item Active>360 (XL, Telkomsel, Barclays Bank)
+		\item Co>Relate, Metadata-Driven Warehouse Platform, Productivity Pack (shared)
+	\end{itemize}
+	\item Established an internal documentation graphics standards team:
+	\begin{itemize}
+		\item Cataloged and analyzed over 4500 images from the then-current product documentation to assess effectiveness, inconsistencies, and workflows
+		\item Wrote PHP, KSH, CSS, and cron scripts to generate nightly and on-demand image galleries from nightly documentation builds
+		\item Configured and maintained several Apache application servers to host image galleries and graphics tools
+		\item Created Illustrator, Photoshop, and Visio templates, styles, stencils and primitives; developed Snagit Profiles, Quick Palettes, and Stamp sets
+		\item Wrote graphics standards and tools chapter for the internal \textit{Writer’s Guide}
+	\end{itemize}
+	\item Documented portions of the \textit{Co>Operating System Configuration Variable Reference} and \textit{Co>Operating System Component Reference}
+	\item Principal on the Control>Center documentation team through several releases
+\end{itemize}
+
+% ----------------------------------------------------------------
+\job{Oracle Corporation}{Burlington, Massachusetts}{February 2010--June 2011}{Technical documentation \& illustration, information architecture \& tooling, German translation}
+\begin{itemize}\jlist
+	\item Documentation lead for the Web Space Server project
+	\item Documented the first major releases of the commercial and open-source versions of the fully Oracle-branded GlassFish Server product
+	\item Contributed illustrations and German localization of code samples for the \textit{Java EE 6 Tutorial}
+	\item Performed product assessments, workflow analyses, and provided tooling and script support as part of the Sun-to-Oracle transition team	
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\job{Sun Microsystems}{Burlington, Massachusetts}{March 1993--February 2010}{Technical documentation \& illustration, multimedia authoring, information architecture \& tooling, coding standards, German translation}
+\begin{itemize}\jlist
+	\item Led Sun’s XML website for three years:
+	\begin{itemize}
+		\item Developed overall information and site design
+		\item Wrote and illustrated more than twenty technical articles and executive summaries
+		\item Shepherded more than twenty new XML technologies through packaging, localization, copyright, and export control
+	\end{itemize}
+	\item Contributor on various Worldwide Web Consortium (W3C) and Java Community Process (JCP) API specifications and draft proposals, including WSCI, JAXB, WSPL, XML Pipeline, Java Management Beans, StAX
+	\item Awarded co-patent for inline help mechanism used in Solaris Management Console
+	\item Founder and co-lead of Online Help Development and Technical Authoring teams:
+	\begin{itemize}
+		\item Member of SGML tagging standards team
+		\item Developed corporate-wide style guides and SGML tagging structures
+		\item Wrote PHP and shell scripts to migrate document sources from FrameMaker to SGML and to automate document source management and production
+	\end{itemize}
+	\item Documentation lead for Web Space Server project:
+	\begin{itemize}
+		\item Wrote and illustrated documentation for open-source and proprietary products
+		\item Created and narrated several series of screencasts
+		\item Gave trade-show demonstrations
+	\end{itemize}
+	\item Documentation lead for Sun Social software:
+	\begin{itemize}
+		\item Wrote and illustrated product documentation
+		\item Created and narrated several series of screencasts
+	\end{itemize}
+	\item Documentation lead for Java Compatibility Test Suite and TCK documentation sets for twenty-four individual Java technologies
+	\item Designed and wrote online help systems and Web-based programming guides for Solaris Enterprise Manager, Solaris Management Console, Solaris DHCP Server, NT-NFS, SunPC
+\end{itemize}
+
+% ----------------------------------------------------------------
+\subsection{Louisiana Energy Services, Nationa Enrichment Facility}
+\parbox{2.9in}{\vspace{-.5em}\textcolor{magenta}{Eunice, New Mexico}}
+\parbox{4.3in}{\vspace{-.5em}\hfill \textcolor{magenta}{{\textit{(contract)} July--December 2006, June--December 2007}}} \\
+\hoff\textit{German translation, technical documentation \& illustration, courseware, content management}
+    \begin{itemize}\jlist
+		\item Wrote German-to-English translations of technical whitepapers, specifications, regulations, facilities procedures, and legal correspondence on nuclear medicine, nuclear safety, accident planning, nuclear enrichment plant design and maintenance, building codes and regulations
+		\item Wrote English summaries of German sources (abstracts, TOC, LOF, LOT) for fifteen nuclear enrichment plant, environmental, and health specifications
+		\item Translated \emph{UF\textsubscript{6} Compendium} (an introduction to uranium hexafluoride production and its roles in nuclear enrichment and reprocessing) from German into English
+		\item Developed information architecture for company-wide Documentum implementation
+\end{itemize}
+
+\pagebreak
+% ----------------------------------------------------------------
+\section{Publications}
+\begin{itemize}
+	\item {\textbf{``The Java EE 5 Tutorial''}; Addison-Wesley, 2006, 2008, 2010 (contributing author); ISBN-13:~978-0321490292}
+	\item {\textbf{``The Java Architecture for XML Binding (JAXB) 2.0''}; Java Community Process (JCP) specification, April 19, 2006 (contributing editor)}
+	\item {\textbf{``Web Service Choreography Interface (WSCI) 1.0''}; World Wide Web Consortium (W3C) Note 8, August 2002 (contributing author, editor)}
+	\item {\textbf{``XML Pipeline Definition Language Version 1.0''}; World Wide Web Consortium (W3C) Note 28, February 2002 (contributing editor)}
+	\item {\textbf{``Wabi 2: Opening Windows''}; Prentice-Hall, 1996 (wrote, illustrated, designed; named a ``Best Book of 1996'' by \emph{Unix Review} magazine, June 1997); ISBN\Hyphdash*13:~978\Hyphdash*0134616179}
+	\item {\textbf{``Visual distress signals''}; \emph{SAIL} magazine, December 1980, Volume 11, Issue 12 (writing and photographs for article about safety flares and other visual distress signals)}
+	\item {\textbf{``Cross-Atlantic Yacht Race''}; \emph{Nikon World} magazine, January 1977, Volume 9, Number~3 (photographs for article about transatlantic sailboat race)}
+	\item {\textbf{``A Seaman They Called `Young Boy`''}; \emph{Long Island Newsday} magazine, April 25, 1976 (photographs and was interviewed for article about transatlantic sailboat race)}
+\end{itemize}
+
+% ----------------------------------------------------------------
+\section{Education}
+%\vspace{.5em}
+\hoff\large\textbf{Tufts University, B.A. English, 1982}
+ \begin{itemize}\jlist
+	\item Minor focuses in Engineering Sciences and Fine Arts
+	\item Completed five Independent Studies (Tufts affiliation) through Boston Museum of Fine Arts School: Animation, Choreography (x2), Painting~(x2)
+	\item Fulfilled University Language Requirements in German and Spanish
+	\end{itemize}
+\end{document}
