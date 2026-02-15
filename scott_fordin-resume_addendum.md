@@ -2,7 +2,7 @@
 [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
 [https://ohelp.com](https://ohelp.com)  
 3 Ohio Avenue Nashua, NH 03060  
-[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
+[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
 
 ---
 
@@ -126,7 +126,7 @@ Nashua, New Hampshire
 *(contract)* July–October 1992
 *Technical documentation & illustration, online help, automation tools, information architecture*
 
-- Wrote and illustrated documentation and online help for SlingShot, WideAngle, and InfoPanel products 
+- Wrote and illustrated documentation and online help for SlingShot, WideAngle, and InfoPanel products 
 - Developed style guide, PDF print specifications, and Microsoft Word templates for all documentation
 
 ## Credit Technologies
@@ -143,7 +143,7 @@ Nashua, New Hampshire
 *(contract)* June–October 1991, February–April 1992
   *Technical documentation & illustration, online help, automation tools, information architecture*
 
-- Wrote and illustrated documentation and online help for OS/2-based network document server product 
+- Wrote and illustrated documentation and online help for OS/2-based network document server product 
 - Designed and wrote documentation and online help for Windows-based document management/office automation system
 - Developed an extensive set of WordBasic macros to facilitate Windows help authoring
 

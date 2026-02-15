@@ -2,63 +2,62 @@
 [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
 [https://ohelp.com](https://ohelp.com)  
 3 Ohio Avenue Nashua, NH 03060  
-[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
+[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
 
 ---
 
 # Services
 
-- Technical documentation & illustration
-- Online & inline help systems
-- Publication & project management
-- Usability testing & design
-- Training materials & courseware
-- Information architecture & design
-- Technical articles & executive briefings
-- Screencasts & narration
+* Technical documentation & illustration
+* Online & inline help systems
+* Publication & project management
+* Usability testing & design
+* Training materials & courseware
+* Information architecture & design
+* Technical articles & executive briefings
+* Screencasts & narration
 
 # Summary
-
-- **Developer-oriented projects** — For the past twenty years, most of my work has been on developer-oriented projects, including the following:
+- **Developer-oriented projects -- For the past twenty years, most of my work has been on developer-oriented projects, including the following:
     - Installation & configuration guides
     - API references & code samples
     - Tooltips & inline help integrations
     - Product specifications & proofs-of-concept
     - Product testing & deployment
-    - Runbooks, & troubleshooting procedures
-
-- **End-user projects** — I have also completed many projects for less technical audiences, including the following:
+    - Runbooks & troubleshooting procedures
+- **End-user projects** -- I have also completed many projects for less technical audiences, including the following:
     - Product documentation & information systems
     - Context-sensitive online help systems
     - Training materials & live presentations
-    - Executive briefings, product summaries, & presentation graphics
+    - Executive briefings, product summaries &~presentation graphics
     - Magazine articles & photos
-
-- **Publications & development support** — As part of my
-  developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
-    - Product documentation & information systems
-    - Context-sensitive online help systems
-    - Training materials & live presentations
-    - Executive briefings, product summaries, & presentation graphics
-    - Magazine articles & photos
+- **Publications & development support** -- As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
+    - Documentation & graphics templates, primitives & exemplars
+    - Information designs & tagging structures
+    - Editorial standards & guidelines
+    - Usability tests & UI designs
+    - Tools & utility scripts for writers & developers
+    - Jira, Confluence & SharePoint project design, macros & maintenance
+    - Localization standards & management
+    - Export, legal & trade compliance
 
 # Software tools
 
-- **Writing** — Arbortext, Bear, Byword, Drafts, Editorial, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, vi/vim, Word
-- **Graphics** — Affinity Designer & Photo, Amadine, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
-- **Audio & video** — Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
-- **Markup & tagging** — CSS, HTML, JSON, Markdown, SGML, TeX/LaTeX, XML, YAML
-- **Content management** — Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
-- **Source control & issue tracking** — CVS, Git, Jira, Perforce, Subversion
-- **Scripting & coding** — Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
-- **Containerized deployment** — Ansible, Docker, Helm, Kubernetes
-- **Ab Initio** — Authorization Gateway, Co\>Operating System,
-  Co\>Relate, Control\>Center, GDE, Metadata Hub, Query\>It, Technical Repository
-- **Operating systems** — iOS, iPadOS, MacOS, Linux, Solaris, Windows
+- **Writing** — Arbortext, Bear, Byword, Drafts, Editorial, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, vi/vim, Word
+- **Graphics** — Affinity Designer & Photo, Amadine, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
+- **Audio & video** — Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
+- **Markup & tagging** — CSS, HTML, JSON, Markdown, SGML, TeX/LaTeX, XML, YAML
+- **Content management** — Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
+- **Source control & issue tracking** — CVS, Git, Jira, Perforce, Subversion
+- **Scripting & coding** — Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
+- **Containerized deployment** — Ansible, Docker, Helm, Kubernetes
+- **Ab Initio** — Authorization Gateway, Co\>Operating System,
+  Co\>Relate, Control\>Center, GDE, Metadata Hub, Query\>It, Technical Repository
+- **Operating systems** — iOS, iPadOS, MacOS, Linux, Solaris, Windows
 
 # For more information
 The remainder of this résumé lists only my most recent work. Please see [my website](https://ohelp.com) or [contact
-me](mailto:sfordin@ohelp.com?subject=CV%20request) for samples and details about my older work — for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
+me](mailto:sfordin@ohelp.com?subject=CV%20request) for samples and details about my older work — for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
 
 # Experience
 ## Ab Initio LLC
@@ -133,19 +132,19 @@ Eunice, New Mexico
 
 # Publications
 
-- **“The Java EE 5 Tutorial”**; Addison-Wesley, 2006, 2008, 2010 (contributing author); ISBN-13: 978-0321490292
+- **“The Java EE 5 Tutorial”**; Addison-Wesley, 2006, 2008, 2010 (contributing author); ISBN-13: 978-0321490292
 - **“The Java Architecture for XML Binding (JAXB) 2.0”**; Java Community Process (JCP) specification, April 19, 2006 (contributing editor)
 - **“Web Service Choreography Interface (WSCI) 1.0”**; World Wide Web Consortium (W3C) Note 8, August 2002 (contributing author, editor)
 - **“XML Pipeline Definition Language Version 1.0”**; World Wide Web Consortium (W3C) Note 28, February 2002 (contributing editor)
 - **“Wabi 2: Opening Windows”**; Prentice-Hall, 1996 (wrote,
-  illustrated, designed; named a “Best Book of 1996” by *Unix Review* magazine, June 1997); ISBN-13: 978-0134616179
+  illustrated, designed; named a “Best Book of 1996” by *Unix Review* magazine, June 1997); ISBN-13: 978-0134616179
 - **“Visual distress signals”**; *SAIL* magazine, December 1980, Volume 11, Issue 12 (writing and photographs for article about safety flares and other visual distress signals)
-- **“Cross-Atlantic Yacht Race”**; *Nikon World* magazine, January 1977, Volume 9, Number 3 (photographs for article about transatlantic sailboat race)
+- **“Cross-Atlantic Yacht Race”**; *Nikon World* magazine, January 1977, Volume 9, Number 3 (photographs for article about transatlantic sailboat race)
 - **“A Seaman They Called ‘Young Boy‘’’**; *Long Island Newsday* magazine, April 25, 1976 (photographs and was interviewed for article about transatlantic sailboat race)
 
 # Education
 **Tufts University, B.A. English, 1982**
 
 - Minor focuses in Engineering Sciences and Fine Arts
-- Completed five Independent Studies (Tufts affiliation) through Boston Museum of Fine Arts School: Animation, Choreography (x2), Painting (x2)
+- Completed five Independent Studies (Tufts affiliation) through Boston Museum of Fine Arts School: Animation, Choreography (x2), Painting (x2)
 - Fulfilled University Language Requirements in German and Spanish
