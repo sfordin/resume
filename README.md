@@ -4,7 +4,7 @@ Markdown, TeX, plain text, and PDF versions of Scott Fordin's primary technical 
 * [`README.md`](README.md) -- This readme file
 * Primary résumé:
     * [Markdown](scott_fordin-resume.md)
-    * [TeX]
+    * [TeX](scott_fordin-resume.tex)
     * [Plain text](scott_fordin-resume.txt)
     * [PDF](scott_fordin-resume.pdf)
 
