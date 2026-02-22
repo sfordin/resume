@@ -84,7 +84,7 @@ June 2011–March 2024
 
 ## Oracle Corporation
 Burlington, Massachusetts
-Feb. 2010–June 2011
+February 2010–June 2011
 *Technical documentation & illustration, information architecture & tooling, German translation*
 
 - Documentation lead for the Web Space Server project
@@ -94,7 +94,7 @@ Feb. 2010–June 2011
 
 ## Sun Microsystems
 Burlington, Massachusetts
-March 1993–Feb. 2010
+March 1993–February 2010
 *Technical documentation & illustration, multimedia authoring,
 information architecture & tooling, coding standards, German
 translation*
@@ -122,7 +122,7 @@ translation*
 
 ## Louisiana Energy Services, Nationa Enrichment Facility
 Eunice, New Mexico
-*(contract)* July--December 2006, June--December 2007
+*(contract)* July–December 2006, June–December 2007
 *German translation, technical documentation & illustration, courseware, content management*
 
 - Wrote German-to-English translations of technical whitepapers, specifications, regulations, facilities procedures, and legal correspondence on nuclear medicine, nuclear safety, accident planning, nuclear enrichment plant design and maintenance, building codes and regulations
