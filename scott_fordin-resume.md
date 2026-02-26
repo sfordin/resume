@@ -17,20 +17,20 @@
 * Screencasts & narration
 
 # Summary
-- **Developer-oriented projects -- For the past twenty years, most of my work has been on developer-oriented projects, including the following:
+- **Developer-oriented projects** — For the past twenty years, most of my work has been on developer-oriented projects, including the following:
     - Installation & configuration guides
     - API references & code samples
     - Tooltips & inline help integrations
     - Product specifications & proofs-of-concept
     - Product testing & deployment
     - Runbooks & troubleshooting procedures
-- **End-user projects** -- I have also completed many projects for less technical audiences, including the following:
+- **End-user projects** — I have also completed many projects for less technical audiences, including the following:
     - Product documentation & information systems
     - Context-sensitive online help systems
     - Training materials & live presentations
     - Executive briefings, product summaries &~presentation graphics
     - Magazine articles & photos
-- **Publications & development support** -- As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
+- **Publications & development support** — As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
     - Documentation & graphics templates, primitives & exemplars
     - Information designs & tagging structures
     - Editorial standards & guidelines
