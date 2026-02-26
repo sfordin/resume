@@ -1,7 +1,6 @@
 **Scott Fordin**  
 [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
 [https://ohelp.com](https://ohelp.com)  
-3 Ohio Avenue Nashua, NH 03060  
 [sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
 
 ---
@@ -84,7 +83,7 @@ Norwood, Massachusetts
 
 ## Thomson Financial
 Boston, Massachusetts
-*(contract) November 1992–February 1993, August 1998–March 1999*
+*(contracts)* November 1992–February 1993, August 1998–March 1999
 *Technical documentation, online help, information architecture*
 
 - Designed and wrote online help for several Java-based financial transaction management applications
@@ -99,7 +98,7 @@ Arlington, Virginia
 
 ## Gemsoft Corporation
 Nashua, New Hampshire
-*(contract)* April–October 1995, January–February 1996
+*(contracts)* April–October 1995, January–February 1996
 *Technical documentation & illustration, online help, information architecture*
 
 - Wrote and illustrated print documentation and several online help systems for Emerald user and administrator products and Gemsoft Preview
@@ -114,7 +113,7 @@ Natick, Massachusetts
 
 ## Xerox Imaging Systems
 Cambridge, Massachusetts
-*(contract)* November 1992, April–May 1993
+*(contracts)* November 1992, April–May 1993
 *Audio scripting, narration & production, information architecture*
 
 - Wrote and narrated intro/outro material for audio cassettes for four Reading Edge product manuals
@@ -140,7 +139,7 @@ Waltham, Massachusetts
 
 ## Keyfile Corporation
 Nashua, New Hampshire
-*(contract)* June–October 1991, February–April 1992
+*(contracts)* June–October 1991, February–April 1992
   *Technical documentation & illustration, online help, automation tools, information architecture*
 
 - Wrote and illustrated documentation and online help for OS/2-based network document server product 
@@ -164,8 +163,7 @@ Waltham, Massachusetts
 ## Kurzweil Computer Products/Xerox Imaging Systems
 Cambridge, Massachusetts
 May 1989–June 1991
-*Technical documentation & illustration, multimedia authoring,
-accessibility design and testing, information architecture, German translation*
+*Technical documentation & illustration, multimedia authoring, accessibility design and testing, information architecture, German translation*
 
 - Designed, wrote, and narrated (for audio cassette) all Reading Machine user documentation
 - Developed information architecture, editorial standards, and document formats specifically optimized for use with screen reader software
@@ -214,7 +212,6 @@ Boston, Massachusetts
 *Technical documentation & illustration, courseware development, system configuration*
 
 - Wrote curricula for AutoCAD and Aldus PageMaker software training classes
-
 - Taught customer classes (basic and advanced) in WordPerfect 4.2; trained staff in Lotus Freelance
 - Configured PC hardware, wrote DOS batch and instructional files for in-house and customer classrooms
 
@@ -245,8 +242,7 @@ Boston, Massachusetts
 ## Wang Laboratories, Inc.
 Lowell, Massachusetts
 *(contract)* February 1986–January 1987
-*Technical documentation & illustration, online help, editorial
-services, German translation, production automation*
+*Technical documentation & illustration, online help, editorial services, German translation, production automation*
 
 - Editing, German translation, and document production for converting four hard-copy lexicons into CD/ROM format: *Random House German/English Dictionary*, *Random House Unabridged English Dictionary*, *Random House Concise English Dictionary*, *Duden German Thesaurus*
 - Developed extensive Wang glossaries (Wang’s scripting language) to automate editorial tasks and CD/ROM production
@@ -269,7 +265,7 @@ Newton, Massachusetts
 
 ## Greater Boston YMCA
 Boston, Massachusetts
-*(contract)* October–November 1984, January–February 1985
+*(contracts)* October–November 1984, January–February 1985
 *Multimedia scripting, narration*
 
 - Wrote and narrated two radio public service announcements

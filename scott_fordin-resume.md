@@ -1,7 +1,6 @@
 **Scott Fordin**  
 [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
 [https://ohelp.com](https://ohelp.com)  
-3 Ohio Avenue Nashua, NH 03060  
 [sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
 
 ---
