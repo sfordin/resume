@@ -1,7 +1,5 @@
-**Scott Fordin**  
-[![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
-[https://ohelp.com](https://ohelp.com)  
-[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
+# [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  Scott Fordin
+[https://ohelp.com](https://ohelp.com) &bull; [sfordin@ohelp.com](mailto:sfordin@ohelp.com) &bull; [+1 (603) 325-1561](tel:+16033251561)
 
 ---
 
@@ -17,20 +15,20 @@
 * Screencasts & narration
 
 # Summary
-- **Developer-oriented projects** — For the past twenty years, most of my work has been on developer-oriented projects, including the following:
+- **Developer-oriented projects** &mdash; For the past twenty years, most of my work has been on developer-oriented projects, including the following:
     - Installation & configuration guides
     - API references & code samples
     - Tooltips & inline help integrations
     - Product specifications & proofs-of-concept
     - Product testing & deployment
     - Runbooks & troubleshooting procedures
-- **End-user projects** — I have also completed many projects for less technical audiences, including the following:
+- **End-user projects** &mdash; I have also completed many projects for less technical audiences, including the following:
     - Product documentation & information systems
     - Context-sensitive online help systems
     - Training materials & live presentations
     - Executive briefings, product summaries &~presentation graphics
     - Magazine articles & photos
-- **Publications & development support** — As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
+- **Publications & development support** &mdash; As part of my developer-oriented and end-user work, I have provided publications and development support on many projects, including the following:
     - Documentation & graphics templates, primitives & exemplars
     - Information designs & tagging structures
     - Editorial standards & guidelines
@@ -42,29 +40,29 @@
 
 # Software tools
 
-- **Writing** — Arbortext, Bear, Byword, Drafts, Editorial, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, vi/vim, Word
-- **Graphics** — Affinity Designer & Photo, Amadine, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
-- **Audio & video** — Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
-- **Markup & tagging** — CSS, HTML, JSON, Markdown, SGML, TeX/LaTeX, XML, YAML
-- **Content management** — Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
-- **Source control & issue tracking** — CVS, Git, Jira, Perforce, Subversion
-- **Scripting & coding** — Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
-- **Containerized deployment** — Ansible, Docker, Helm, Kubernetes
-- **Ab Initio** — Authorization Gateway, Co\>Operating System,
+- **Writing** &mdash; Arbortext, Bear, Byword, Drafts, Editorial, Emacs, FrameMaker, FreeMind, LibreOffice, Notepad++, oXygen, Scrivener, SimpleMind, Sublime Text, TeXShop, TeXstudio, vi/vim, Word
+- **Graphics** &mdash; Affinity Designer & Photo, Amadine, Concepts, Focos, GIMP, Illustrator, Inkscape, Lightroom, Linearity Curve, Photoshop, PowerPoint, Procreate, Snagit, Visio
+- **Audio & video** &mdash; Audacity, Camtasia, Ferrite, ffmpeg, HandBrake, ID3 Editor, Linearity Move, Premiere, Reaper, Subler, TMPGEnc, Vegas Studio
+- **Markup & tagging** &mdash; CSS, HTML, JSON, Markdown, SGML, TeX/LaTeX, XML, YAML
+- **Content management** &mdash; Confluence, Drupal, GitHub, InDesign, SharePoint, WordPress
+- **Source control & issue tracking** &mdash; CVS, Git, Jira, Perforce, Subversion
+- **Scripting & coding** &mdash; Bash/KSH/ZSH, CGI, Java, JavaScript, Perl, PHP, Python
+- **Containerized deployment** &mdash; Ansible, Docker, Helm, Kubernetes
+- **Ab Initio** &mdash; Authorization Gateway, Co\>Operating System,
   Co\>Relate, Control\>Center, GDE, Metadata Hub, Query\>It, Technical Repository
-- **Operating systems** — iOS, iPadOS, MacOS, Linux, Solaris, Windows
+- **Operating systems** &mdash; iOS, iPadOS, MacOS, Linux, Solaris, Windows
 
 # For more information
 The remainder of this résumé lists only my most recent work. Please see [my website](https://ohelp.com) or [contact
-me](mailto:sfordin@ohelp.com?subject=CV%20request) for samples and details about my older work — for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
+me](mailto:sfordin@ohelp.com?subject=CV%20request) for samples and details about my older work &mdash; for example, at Kurzweil Computer Products/Xerox Imaging Systems, Project Software and Development, NuSphere Corporation, Torrent Systems, Thomson Financial, and Wang Laboratories, among many other clients.
 
 # Experience
 ## Ab Initio LLC
 Lexington, Massachusetts
-June 2011–March 2024
+June 2011&ndash;March 2024
 *Technical documentation & illustration, information architecture, graphics tools, custom consulting solutions*
 
-- Embedded for five years (March 2016–February 2021) at JPMorgan Chase (JPMC) as part of several Ab Initio field-consulting and development teams
+- Embedded for five years (March 2016&ndash;February 2021) at JPMorgan Chase (JPMC) as part of several Ab Initio field-consulting and development teams
 - “Loaned” to JPMC for a non-Ab Initio Sheltered Harbor project
   (emergency standards and protocols under the auspices of the US Treasury Department)
 - Documented Ab Initio custom field-consulting solutions for various clients:
@@ -83,7 +81,7 @@ June 2011–March 2024
 
 ## Oracle Corporation
 Burlington, Massachusetts
-February 2010–June 2011
+February 2010&ndash;June 2011
 *Technical documentation & illustration, information architecture & tooling, German translation*
 
 - Documentation lead for the Web Space Server project
@@ -93,7 +91,7 @@ February 2010–June 2011
 
 ## Sun Microsystems
 Burlington, Massachusetts
-March 1993–February 2010
+March 1993&ndash;February 2010
 *Technical documentation & illustration, multimedia authoring,
 information architecture & tooling, coding standards, German
 translation*
@@ -121,7 +119,7 @@ translation*
 
 ## Louisiana Energy Services, Nationa Enrichment Facility
 Eunice, New Mexico
-*(contract)* July–December 2006, June–December 2007
+*(contract)* July&ndash;December 2006, June&ndash;December 2007
 *German translation, technical documentation & illustration, courseware, content management*
 
 - Wrote German-to-English translations of technical whitepapers, specifications, regulations, facilities procedures, and legal correspondence on nuclear medicine, nuclear safety, accident planning, nuclear enrichment plant design and maintenance, building codes and regulations

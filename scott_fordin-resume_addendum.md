@@ -1,7 +1,5 @@
-**Scott Fordin**  
-[![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  
-[https://ohelp.com](https://ohelp.com)  
-[sfordin@ohelp.com](mailto:sfordin@ohelp.com) • [+1 (603) 325-1561](tel:+16033251561)
+# [![https://ohelp.com](ohelp_https-qr_code-20.png)](https://ohelp.com)  Scott Fordin
+[https://ohelp.com](https://ohelp.com) &bull; [sfordin@ohelp.com](mailto:sfordin@ohelp.com) &bull; [+1 (603) 325-1561](tel:+16033251561)
 
 ---
 
@@ -26,7 +24,7 @@
 # Experience
 ## Infant Jesus School
 Nashua, New Hampshire
-*(contract)* September 2005–May 2006, September 2006–April 2007
+*(contract)* September 2005&ndash;May 2006, September 2006&ndash;April 2007
 *Network infrastructure, software installation & configuration, staff training*
 
 - Designed network topology and physically installed all networking cabling, routers, switches, and computers for entire school (&approx;75 nodes)
@@ -35,7 +33,7 @@ Nashua, New Hampshire
 
 ## Atrium Salon & Spa
 Nashua, New Hampshire
-*(contract)* June–September 2009
+*(contract)* June&ndash;September 2009
 *Website development, logo design, internal training*
 
 - Designed and authored company website
@@ -51,14 +49,14 @@ Nashua, New Hampshire
 
 ## PeerDirect
 Bedford, Massachusetts
-*(contract)* February–March 2003
+*(contract)* February&ndash;March 2003
 *Technical documentation & illustration, online help*
 
 - Wrote and illustrated documentation and online help for the PeerDirect Database Replication Engine
 
 ## NuSphere Corporation
 Burlington, Massachusetts
-*(contract)* February–October 2001
+*(contract)* February&ndash;October 2001
 *Technical documentation & illustration, online help, information architecture*
 
 - Wrote *Getting Started guide*, *MySQL Advantage Installation Guide*, *MySQL Advantage User’s Guide*, and *MySQL Reference Manual* for three release cycles
@@ -66,7 +64,7 @@ Burlington, Massachusetts
 
 ## Torrent Systems, Inc.
 Cambridge, Massachusetts
-*(contract)* June 2000–January 2001
+*(contract)* June 2000&ndash;January 2001
 *Technical documentation & illustration, online help, information architecture*
 
 - Wrote functional specifications for Orchestrate parallel processing *Client/Server API Guide*, *Operator’s Guide*, and *Web House Operator’s Guide* for clickstream processing, data warehousing, and data-mining operator APIs
@@ -75,7 +73,7 @@ Cambridge, Massachusetts
 
 ## Hurley Communications, Inc.
 Norwood, Massachusetts
-*(contract)* October 1999–May 2000
+*(contract)* October 1999&ndash;May 2000
 *Technical documentation & illustration, online help, information architecture*
 
 - Wrote and illustrated print documentation, training materials, and online help for integrated hospital switchboard and messaging system
@@ -83,7 +81,7 @@ Norwood, Massachusetts
 
 ## Thomson Financial
 Boston, Massachusetts
-*(contracts)* November 1992–February 1993, August 1998–March 1999
+*(contracts)* November 1992&ndash;February 1993, August 1998&ndash;March 1999
 *Technical documentation, online help, information architecture*
 
 - Designed and wrote online help for several Java-based financial transaction management applications
@@ -91,14 +89,14 @@ Boston, Massachusetts
 
 ## Electronic Industries Data Exchange Association
 Arlington, Virginia
-*(contract)* July–September 1998
+*(contract)* July&ndash;September 1998
 *Technical documentation & illustration*
 
 - Co-designed, illustrated, and edited EIDX API specification for managing electronic financial transactions
 
 ## Gemsoft Corporation
 Nashua, New Hampshire
-*(contracts)* April–October 1995, January–February 1996
+*(contracts)* April&ndash;October 1995, January&ndash;February 1996
 *Technical documentation & illustration, online help, information architecture*
 
 - Wrote and illustrated print documentation and several online help systems for Emerald user and administrator products and Gemsoft Preview
@@ -106,14 +104,14 @@ Nashua, New Hampshire
 
 ## Scan Centers of America
 Natick, Massachusetts
-*(contract)* February–April 1995  
+*(contract)* February&ndash;April 1995  
 *Technical documentation & illustration*
 
 - Designed, wrote, and illustrated *Electronic Document Management: A ScanCenters Primer for Real People*, a primer on electronic document management concepts
 
 ## Xerox Imaging Systems
 Cambridge, Massachusetts
-*(contracts)* November 1992, April–May 1993
+*(contracts)* November 1992, April&ndash;May 1993
 *Audio scripting, narration & production, information architecture*
 
 - Wrote and narrated intro/outro material for audio cassettes for four Reading Edge product manuals
@@ -122,7 +120,7 @@ Cambridge, Massachusetts
 
 ## Attitash Software, Inc.
 Nashua, New Hampshire
-*(contract)* July–October 1992
+*(contract)* July&ndash;October 1992
 *Technical documentation & illustration, online help, automation tools, information architecture*
 
 - Wrote and illustrated documentation and online help for SlingShot, WideAngle, and InfoPanel products 
@@ -130,7 +128,7 @@ Nashua, New Hampshire
 
 ## Credit Technologies
 Waltham, Massachusetts
-*(contract)* May–July 1992
+*(contract)* May&ndash;July 1992
 *Technical documentation & illustration, information architecture, QA testing*
 
 - Wrote and illustrated user guides for Remote CAS and Core CDS products
@@ -139,7 +137,7 @@ Waltham, Massachusetts
 
 ## Keyfile Corporation
 Nashua, New Hampshire
-*(contracts)* June–October 1991, February–April 1992
+*(contracts)* June&ndash;October 1991, February&ndash;April 1992
   *Technical documentation & illustration, online help, automation tools, information architecture*
 
 - Wrote and illustrated documentation and online help for OS/2-based network document server product 
@@ -148,21 +146,21 @@ Nashua, New Hampshire
 
 ## Inmagic, Inc.
 Woburn, Massachusetts
-*(contract)* November 1991–February 1992
+*(contract)* November 1991&ndash;February 1992
 *Technical documentation & illustration*
 
 - Wrote and illustrated user manual for relational database product
 
 ## Archetype, Inc.
 Waltham, Massachusetts
-*(contract)* May–June 1991
+*(contract)* May&ndash;June 1991
 *Technical documentation & illustration*
 
 - Wrote and illustrated user manual for Netware/Windows client-server image-management product
 
 ## Kurzweil Computer Products/Xerox Imaging Systems
 Cambridge, Massachusetts
-May 1989–June 1991
+May 1989&ndash;June 1991
 *Technical documentation & illustration, multimedia authoring, accessibility design and testing, information architecture, German translation*
 
 - Designed, wrote, and narrated (for audio cassette) all Reading Machine user documentation
@@ -176,7 +174,7 @@ May 1989–June 1991
 
 ## Project Software & Development
 Cambridge, Massachusetts
-February 1988–May 1989
+February 1988&ndash;May 1989
 *Technical documentation & illustration, information architecture, internal training, test management*
 
 - Wrote and illustrated user documentation for VAX and IBM
@@ -193,14 +191,14 @@ Quincy, Massachusetts
 
 ## IMEC Corporation
 Charlestown, Massachusetts
-*(contract)* January–February 1988
+*(contract)* January&ndash;February 1988
 *Technical documentation, German translation*
 
 - Translated hardware manual for logic-driven electric servo motors into German
 
 ## AT&T
 Boston, Massachusetts
-*(contract)* November–December 1987
+*(contract)* November&ndash;December 1987
 *Technical documentation, internal training, office automation*
 
 - Conducted in-house training, wrote instructional documentation for various office productivity tools
@@ -208,7 +206,7 @@ Boston, Massachusetts
 
 ## Boston Center for Computer Applications
 Boston, Massachusetts
-*(contract)* September–November 1987
+*(contract)* September&ndash;November 1987
 *Technical documentation & illustration, courseware development, system configuration*
 
 - Wrote curricula for AutoCAD and Aldus PageMaker software training classes
@@ -217,7 +215,7 @@ Boston, Massachusetts
 
 ## Little, Brown Company
 Boston, Massachusetts
-*(contract)* April–June 1987
+*(contract)* April&ndash;June 1987
 *Editorial services, internal training*
 
 - Performed staff training on MultiMate, Lotus 1‐2‐3, and DOS
@@ -225,7 +223,7 @@ Boston, Massachusetts
 
 ## Arthur Andersen/Massachusetts Department of Revenue
 Boston, Massachusetts
-*(contract)* March–April 1987
+*(contract)* March&ndash;April 1987
 *Editorial services, office automation*
 
 - Performed editorial services for training materials for MASSTAX auditing system
@@ -233,7 +231,7 @@ Boston, Massachusetts
 
 ## Keystone Provident Life Insurance Company
 Boston, Massachusetts
-*(contract)* February–March 1987
+*(contract)* February&ndash;March 1987
 *Technical documentation, office automation*
 
 - Wrote internal documentation
@@ -241,7 +239,7 @@ Boston, Massachusetts
 
 ## Wang Laboratories, Inc.
 Lowell, Massachusetts
-*(contract)* February 1986–January 1987
+*(contract)* February 1986&ndash;January 1987
 *Technical documentation & illustration, online help, editorial services, German translation, production automation*
 
 - Editing, German translation, and document production for converting four hard-copy lexicons into CD/ROM format: *Random House German/English Dictionary*, *Random House Unabridged English Dictionary*, *Random House Concise English Dictionary*, *Duden German Thesaurus*
@@ -251,21 +249,21 @@ Lowell, Massachusetts
 
 ## Blackfoot Productions
 Cambridge, Massachusetts
-*(contract)* June–August 1986
+*(contract)* June&ndash;August 1986
 *Editorial services*
 
 - Script editor for “*Vig*,” a stage play by Paul Hapenny
 
 ## Solomon Shechter Day School
 Newton, Massachusetts
-*(contract)* May–June 1985
+*(contract)* May&ndash;June 1985
 *Multimedia scripting*
 
 - Wrote narration and storyboard for annual fundraising video
 
 ## Greater Boston YMCA
 Boston, Massachusetts
-*(contracts)* October–November 1984, January–February 1985
+*(contracts)* October&ndash;November 1984, January&ndash;February 1985
 *Multimedia scripting, narration*
 
 - Wrote and narrated two radio public service announcements
@@ -273,7 +271,7 @@ Boston, Massachusetts
 
 ## Seiler Corporation
 Waltham, Massachusetts
-*(contract)* December 1984–February 1985
+*(contract)* December 1984&ndash;February 1985
 *Newsletters*
 
 - Wrote two monthly corporate newsletters
@@ -287,7 +285,7 @@ Lynn, Massachusetts
 
 ## *The Yacht* magazine
 Newport, Rhode Island
-*(contract)* August 1983–March 1984
+*(contract)* August 1983&ndash;March 1984
 *Writing, photography, editorial services, production management*
 
 - Editorial production manager for first edition of magazine
@@ -296,7 +294,7 @@ Newport, Rhode Island
 
 ## Roger Vaughan
 Newport, Rhode Island
-*(contract)* November 1983–February 1984
+*(contract)* November 1983&ndash;February 1984
 *German translation, biographical research*
 
 - German translation and research for biography of Herbert von Karajan
@@ -310,7 +308,7 @@ Boston, Massachusetts
 
 ## Fluor Corporation/Daniel Construction
 Greenville, South Carolina
-*(contract)* May 1978–September 1978
+*(contract)* May 1978&ndash;September 1978
 *Architectural drafting, technical illustration*
 
 - Architectural illustration and technical drafting for industrial process piping and design facilities
